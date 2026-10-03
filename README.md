@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of dem13n/nickname-changer.** Not for installation: use [Packagist](https://packagist.org/packages/dem13n/nickname-changer) or the [upstream repository](https://github.com/Dem13n/nickname-changer).
 
-**0** versions archived · Latest: [`0.2`](https://github.com/flarchive/dem13n-nickname-changer/tree/archive/v0.2) · License: `MIT` · Flarum: `>=0.1.0-beta.10 <0.1.0-beta.14`
+**11** versions archived · Latest: [`0.2`](https://github.com/flarchive/dem13n-nickname-changer/tree/archive/v0.2) · License: `MIT` · Flarum: `>=0.1.0-beta.10 <0.1.0-beta.14`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2019-07-30 | `^0.1.0-beta.9` | [Browse](https://github.com/flarchive/dem13n-nickname-changer/tree/archive/v0.1.0) |
+| `0.1.1` | 2019-07-31 | `^0.1.0-beta.9` | [Browse](https://github.com/flarchive/dem13n-nickname-changer/tree/archive/v0.1.1) |
+| `0.1.2` | 2019-08-23 | `^0.1.0-beta.9` | [Browse](https://github.com/flarchive/dem13n-nickname-changer/tree/archive/v0.1.2) |
+| `0.1.3` | 2019-09-05 | `^0.1.0-beta.9` | [Browse](https://github.com/flarchive/dem13n-nickname-changer/tree/archive/v0.1.3) |
+| `0.1.4` | 2019-09-17 | `>=0.1.0-beta.10 <0.1.0-beta.12` | [Browse](https://github.com/flarchive/dem13n-nickname-changer/tree/archive/v0.1.4) |
+| `0.1.5` | 2019-09-29 | `>=0.1.0-beta.10 <0.1.0-beta.12` | [Browse](https://github.com/flarchive/dem13n-nickname-changer/tree/archive/v0.1.5) |
+| `0.1.6` | 2019-10-16 | `>=0.1.0-beta.10 <0.1.0-beta.12` | [Browse](https://github.com/flarchive/dem13n-nickname-changer/tree/archive/v0.1.6) |
+| `0.1.7` | 2020-02-10 | `>=0.1.0-beta.10 <0.1.0-beta.12` | [Browse](https://github.com/flarchive/dem13n-nickname-changer/tree/archive/v0.1.7) |
+| `0.1.8` | 2020-02-11 | `>=0.1.0-beta.10 <0.1.0-beta.12` | [Browse](https://github.com/flarchive/dem13n-nickname-changer/tree/archive/v0.1.8) |
+| `0.1.9` | 2020-02-11 | `>=0.1.0-beta.10 <0.1.0-beta.12` | [Browse](https://github.com/flarchive/dem13n-nickname-changer/tree/archive/v0.1.9) |
+
+[View all 11 versions](https://github.com/flarchive/dem13n-nickname-changer/tags)
 
 Catalog entry: [packages/dem13n-nickname-changer.json](https://github.com/flarchive/archive-index/blob/main/packages/dem13n-nickname-changer.json)
 
